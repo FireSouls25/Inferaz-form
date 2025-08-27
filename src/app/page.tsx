@@ -1,5 +1,3 @@
-import Head from "next/head";
-
 export default function Login() {
   return (
     <main className="flex justify-center items-center w-screen h-screen bg-stone-200">
